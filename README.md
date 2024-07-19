@@ -1,4 +1,4 @@
-# Sales Analysis Report
+## Analysis Report
 
 
 ![Screenshot 2024-04-24 174127](https://github.com/user-attachments/assets/253daa8f-0f8b-4ccf-85d8-f432b74744bf)
@@ -41,6 +41,9 @@ Best month: April 1998.
 2. Contact Title Analysis:
 
      High quantity orders by Sales Representatives, Sales Managers, and Accounting Managers.
+
+
+![pic2](https://github.com/user-attachments/assets/dbc96aab-a06d-4775-91c3-e71939c127be)
 
 ## Product Analysis:
 
